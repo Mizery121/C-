@@ -1,0 +1,14 @@
+C:\Users\somewhere\source\repos\15.05.26(1)\15.05.26(1)\bin\Debug\net10.0\15.05.26(1).exe
+C:\Users\somewhere\source\repos\15.05.26(1)\15.05.26(1)\bin\Debug\net10.0\15.05.26(1).deps.json
+C:\Users\somewhere\source\repos\15.05.26(1)\15.05.26(1)\bin\Debug\net10.0\15.05.26(1).runtimeconfig.json
+C:\Users\somewhere\source\repos\15.05.26(1)\15.05.26(1)\bin\Debug\net10.0\15.05.26(1).dll
+C:\Users\somewhere\source\repos\15.05.26(1)\15.05.26(1)\bin\Debug\net10.0\15.05.26(1).pdb
+C:\Users\somewhere\source\repos\15.05.26(1)\15.05.26(1)\obj\Debug\net10.0\15.05.26(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somewhere\source\repos\15.05.26(1)\15.05.26(1)\obj\Debug\net10.0\15.05.26(1).AssemblyInfoInputs.cache
+C:\Users\somewhere\source\repos\15.05.26(1)\15.05.26(1)\obj\Debug\net10.0\15.05.26(1).AssemblyInfo.cs
+C:\Users\somewhere\source\repos\15.05.26(1)\15.05.26(1)\obj\Debug\net10.0\15.05.26(1).csproj.CoreCompileInputs.cache
+C:\Users\somewhere\source\repos\15.05.26(1)\15.05.26(1)\obj\Debug\net10.0\15.05.26(1).dll
+C:\Users\somewhere\source\repos\15.05.26(1)\15.05.26(1)\obj\Debug\net10.0\refint\15.05.26(1).dll
+C:\Users\somewhere\source\repos\15.05.26(1)\15.05.26(1)\obj\Debug\net10.0\15.05.26(1).pdb
+C:\Users\somewhere\source\repos\15.05.26(1)\15.05.26(1)\obj\Debug\net10.0\15.05.26(1).genruntimeconfig.cache
+C:\Users\somewhere\source\repos\15.05.26(1)\15.05.26(1)\obj\Debug\net10.0\ref\15.05.26(1).dll
