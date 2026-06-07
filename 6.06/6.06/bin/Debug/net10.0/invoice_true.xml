@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Invoice xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PaymentPerDay>500</PaymentPerDay>
+  <DaysCount>30</DaysCount>
+  <PenaltyPerDay>50</PenaltyPerDay>
+  <DelayDays>5</DelayDays>
+  <AmountWithoutPenalty>15000</AmountWithoutPenalty>
+  <Penalty>250</Penalty>
+  <TotalAmount>15250</TotalAmount>
+</Invoice>
